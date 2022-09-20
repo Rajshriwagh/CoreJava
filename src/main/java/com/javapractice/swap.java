@@ -7,6 +7,7 @@ public class swap {
 	        Scanner sc = new Scanner(System.in);  
 	        /*Define variables*/  
 	        int x = sc.nextInt();  
+	        
 	        int y = sc.nextInt();  
 	        System.out.println("before swapping numbers: "+x +" "+ y);  
 	       /*Swapping*/  
