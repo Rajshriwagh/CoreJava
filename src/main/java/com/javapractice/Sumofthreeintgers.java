@@ -21,7 +21,7 @@ public class Sumofthreeintgers {
 
 		// If no triplet with 0 sum found in array
 		if (isfound == false)
-			System.out.println(" not exist ");
+			System.out.println(" Number not exist ");
 	}
 
 	// Driver code
